@@ -5,21 +5,21 @@
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
 <h4 align="center">Tools:</h4>
-Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker
+<h7 align="center">Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker
 
 <h4 align="center">Projects:</h4>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects<a><br>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research<a><br>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project<a> <br>
+* <a align="center" href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects<a><br>
+* <a align="center" href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research<a><br>
+* <a align="center" href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project<a> <br>
 
 
 
   
   
   
-  <!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhexNICK-MAIL-RU&layout=compact)](https://github.com/AIhexNICK-MAIL-RU/github-readme-stats)
-
+  <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AIhexNICK-MAIL-RU)](https://github.com/AIhexNICK-MAIL-RU/github-profile-trophy)
 
 
