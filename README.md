@@ -5,7 +5,7 @@
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
 <h4 align="center">Tools:</h4>
-<h5 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker</h5>
+<h5 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker, airflow, hadoop, SQL, PyTorch, Notion, draw.io</h5>
 
 <h4 align="center">Projects:</h4>
 <h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h5><br>
