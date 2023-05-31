@@ -4,14 +4,15 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
+<h4 align="center">Tools:</h4>
+Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker
 
 <h4 align="center">Projects:</h4>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects<a>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research<a>
-* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project<a> 
+* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects<a><br>
+* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research<a><br>
+* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project<a> <br>
 
-<h4 align="center">Tools:</h4>
-Python, Git, Jupiter, Google Collab, C#, PHP, HTML
+
 
   
   
