@@ -8,6 +8,14 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AIhexNICK-MAIL-RU)](https://github.com/AIhexNICK-MAIL-RU/github-profile-trophy)
 
+
+
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a>
+
+
+
+
 <!--
 **AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
