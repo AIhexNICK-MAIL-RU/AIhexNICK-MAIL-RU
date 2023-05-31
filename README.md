@@ -5,12 +5,12 @@
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
 <h4 align="center">Tools:</h4>
-<h7 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker</a>
+<h5 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker</h5>
 
 <h4 align="center">Projects:</h4>
-<h7 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a><br>
-<h7 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a><br>
-<h7 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> <br>
+<h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h5><br>
+<h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h5><br>
+<h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h5><br>
 
 
 
