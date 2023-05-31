@@ -5,11 +5,11 @@
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
 
-<h4 align="center">Projects:🇺</h4>
+<h4 align="center">Projects:</h4>
+* <a href="https://www.linkedin.com/in/ivan-alexeev-81aa31125/" target="_blank">ML-projects<a>
 
-<h4 align="center">Tools:🇺</h4>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/python.svg" alt="python" width="40" height="40"/> </a>
-
+<h4 align="center">Tools:</h4>
+Python, Git, Jupiter, Google Collab, C#, PHP, HTML
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhexNICK-MAIL-RU&layout=compact)](https://github.com/AIhexNICK-MAIL-RU/github-readme-stats)
 
