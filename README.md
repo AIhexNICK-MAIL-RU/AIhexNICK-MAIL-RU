@@ -8,10 +8,10 @@
 <h5 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker, airflow, hadoop, SQL, PyTorch, Notion, draw.io</h5>
 
 <h4 align="center">Projects:</h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4><br>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h4><br>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h4><br>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a> </h4><br>
+<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4>
+<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h4>
+<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h4>
+<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a> </h4>
 
 
  
@@ -22,6 +22,8 @@
   <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AIhexNICK-MAIL-RU)](https://github.com/AIhexNICK-MAIL-RU/github-profile-trophy)
 <h7 align="center">
+
+<br>
 
 
 **AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
