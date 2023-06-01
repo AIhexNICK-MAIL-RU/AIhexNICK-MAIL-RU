@@ -11,7 +11,7 @@
 <h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h5><br>
 <h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h5><br>
 <h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h5><br>
-
+<h5 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">Telegram-bot on C#</a> </h5><br>
 
 
  
