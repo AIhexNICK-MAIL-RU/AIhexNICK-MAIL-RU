@@ -9,6 +9,7 @@
 
 <h4 align="center">Projects:</h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4>
+ <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/big_data" target="_blank">Big Data-projects</a></h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a> </h4>
