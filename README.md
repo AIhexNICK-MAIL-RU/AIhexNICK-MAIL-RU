@@ -60,16 +60,7 @@
   </tr>
 </table>
 
-<h4 align="center">Projects:</h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/big_data" target="_blank">Big Data-projects</a></h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a> </h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/phonebookPython/tree/main" target="_blank">Phone book on Python</a> </h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/basics_python/tree/main/basics_python" target="_blank">Python tasks</a> </h4>
-<h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/certificates" target="_blank">Certificates</a> </h4> 
-  
+## ABOUT ME
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhexNICK-MAIL-RU&layout=compact)](https://github.com/AIhexNICK-MAIL-RU/github-readme-stats)
@@ -79,7 +70,7 @@
 
 <br>
 
-## КОНТАКТЫ
+## CONTACTS
 
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/AI_Nick)
 [![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/ai_nick_/)
