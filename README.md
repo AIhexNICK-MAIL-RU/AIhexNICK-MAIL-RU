@@ -19,16 +19,46 @@
 ![PANDAS](https://img.shields.io/badge/PANDAS-090909??style=flat-square&logo=PANDAS)
 ![DOCKER](https://img.shields.io/badge/DOCKER-090909??style=flat-square&logo=DOCKER)
 ![JUPITER](https://img.shields.io/badge/JUPITER-090909??style=flat-square&logo=JUPITER)
-<-- ![EDA](https://img.shields.io/badge/EDA-090909??style=flat-square&logo=EDA) -->
-<-- ![A/B-test](https://img.shields.io/badge/A/B_test-090909??style=flat-square&logo=A/B-test) -->
-<-- ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-090909??style=flat-square&logo=POSTGRESQL) -->
-<-- ![SQLALCHEMY](https://img.shields.io/badge/SQLALCHEMY-090909??style=flat-square&logo=SQLALCHEMY) -->
-<-- ![CATBOOST](https://img.shields.io/badge/CATBOOST-090909??style=flat-square&logo=CATBOOST) -->
-<-- ![XGBOOST](https://img.shields.io/badge/XGBOOST-090909??style=flat-square&logo=XGBOOST) -->
-<-- ![LIGHTGBM](https://img.shields.io/badge/LIGHTGBM-090909??style=flat-square&logo=LIGHTGBM) -->
-<-- ![AIRFLOW](https://img.shields.io/badge/AIRFLOW-090909??style=flat-square&logo=AIRFLOW) -->
-<-- ![FAST API](https://img.shields.io/badge/FASTAPI-090909??style=flat-square&logo=FASTAPI) -->
-<-- ![YAML](https://img.shields.io/badge/YAML-090909??style=flat-square&logo=YAML) -->
+
+<table>
+  <tr>
+    <th>№ п/п</th>
+    <th>Projects</th>
+    
+  </tr>
+  <tr>
+    <td>1</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/big_data" target="_blank">Big Data-projects</td>
+  </tr>
+    <tr>
+    <td>3</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></td>
+  </tr>
+    <tr>
+    <td>4</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </td>
+  </tr>
+    <tr>
+    <td>5</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a></td>
+  </tr>
+    <tr>
+    <td>6</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/phonebookPython/tree/main" target="_blank">Phone book on Python</a></td>
+  </tr>
+    <tr>
+    <td>7</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/basics_python/tree/main/basics_python" target="_blank">Python tasks</a></td>
+  </tr>
+    <tr>
+    <td>8</td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/certificates" target="_blank">Certificates</a></td>
+  </tr>
+</table>
 
 <h4 align="center">Projects:</h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4>
