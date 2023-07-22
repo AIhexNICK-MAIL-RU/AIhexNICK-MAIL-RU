@@ -4,8 +4,31 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
 
-<h4 align="center">Tools:</h4>
-<h5 align="center"><a>Python, Git, Jupiter, Google Collab, C#, PHP, HTML, Docker, airflow, hadoop, SQL, PyTorch, PySpark, Notion, draw.io</h5>
+## HARD SKILLS
+
+![PYTHON](https://img.shields.io/badge/PYTHON-090909??style=flat-square&logo=PYTHON)
+![SQL](https://img.shields.io/badge/SQL-090909??style=flat-square&logo=SQL)
+![Statistics](https://img.shields.io/badge/Statistics-090909??style=flat-square&logo=Statistics)
+![git](https://img.shields.io/badge/GIT-090909??style=flat-square&logo=GIT)
+![PYTORCH](https://img.shields.io/badge/PYTORCH-090909??style=flat-square&logo=PYTORCH)
+![NUMPY](https://img.shields.io/badge/NUMPY-090909??style=flat-square&logo=NUMPY)
+![SCIPY](https://img.shields.io/badge/SCIPY-090909??style=flat-square&logo=SCIPY)
+![SCIKIT-LEARN](https://img.shields.io/badge/SKLEARN-090909??style=flat-square&logo=SCIKIT-LEARN)
+![SEABORN](https://img.shields.io/badge/SEABORN-090909??style=flat-square&logo=seaborn)
+![MATPLOTLIB](https://img.shields.io/badge/MATPLOTLIB-090909??style=flat-square&logo=MATPLOTLIB)
+![PANDAS](https://img.shields.io/badge/PANDAS-090909??style=flat-square&logo=PANDAS)
+![DOCKER](https://img.shields.io/badge/DOCKER-090909??style=flat-square&logo=DOCKER)
+![JUPITER](https://img.shields.io/badge/JUPITER-090909??style=flat-square&logo=JUPITER)
+<-- ![EDA](https://img.shields.io/badge/EDA-090909??style=flat-square&logo=EDA) -->
+<-- ![A/B-test](https://img.shields.io/badge/A/B_test-090909??style=flat-square&logo=A/B-test) -->
+<-- ![POSTGRESQL](https://img.shields.io/badge/POSTGRESQL-090909??style=flat-square&logo=POSTGRESQL) -->
+<-- ![SQLALCHEMY](https://img.shields.io/badge/SQLALCHEMY-090909??style=flat-square&logo=SQLALCHEMY) -->
+<-- ![CATBOOST](https://img.shields.io/badge/CATBOOST-090909??style=flat-square&logo=CATBOOST) -->
+<-- ![XGBOOST](https://img.shields.io/badge/XGBOOST-090909??style=flat-square&logo=XGBOOST) -->
+<-- ![LIGHTGBM](https://img.shields.io/badge/LIGHTGBM-090909??style=flat-square&logo=LIGHTGBM) -->
+<-- ![AIRFLOW](https://img.shields.io/badge/AIRFLOW-090909??style=flat-square&logo=AIRFLOW) -->
+<-- ![FAST API](https://img.shields.io/badge/FASTAPI-090909??style=flat-square&logo=FASTAPI) -->
+<-- ![YAML](https://img.shields.io/badge/YAML-090909??style=flat-square&logo=YAML) -->
 
 <h4 align="center">Projects:</h4>
 <h4 align="center">* <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">ML-projects</a></h4>
@@ -26,6 +49,10 @@
 
 <br>
 
+## КОНТАКТЫ
+
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/AI_Nick)
+[![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/ai_nick_/)
 
 **AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
