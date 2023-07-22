@@ -3,6 +3,7 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/ivan-alexeev-81aa31125/" target="_blank">Ivan Alexeev</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Machine Learning engeneer, Big Data researcher from Russia 🇷🇺</h3>
+## ABOUT ME
 
 ## HARD SKILLS
 
@@ -60,8 +61,12 @@
   </tr>
 </table>
 
-## ABOUT ME
-  
+
+
+## CONTACTS
+
+[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/AI_Nick)
+[![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/ai_nick_/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhexNICK-MAIL-RU&layout=compact)](https://github.com/AIhexNICK-MAIL-RU/github-readme-stats)
   <!--
@@ -70,10 +75,7 @@
 
 <br>
 
-## CONTACTS
 
-[![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/AI_Nick)
-[![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/ai_nick_/)
 
 **AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
