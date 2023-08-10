@@ -43,7 +43,7 @@
     <tr>
     <td><a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a></td>
     <td> Telegram-bot on Python </td>
-  </tr>  <a href="https://github.com/AIhexNICK-MAIL-RU/arktek_data_hackaton" target="_blank">Hackaton Arktek Data</a
+  </tr>  <a href="https://github.com/AIhexNICK-MAIL-RU/arktek_data_hackaton" target="_blank">Hackaton Arktek Data</a>
     <tr>
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/phonebookPython/tree/main" target="_blank">Phone book on Python</a> </td>
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/basics_python/tree/main/basics_python" target="_blank">Python tasks</a> </td>
