@@ -24,39 +24,34 @@
 
 <table>
   <tr>
-    <th>№ п/п</th>
     <th>Projects</th>
-    
+
   </tr>
   <tr>
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/ML_projects_portfolio" target="_blank">Deep Learning-projects</a></td>
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/ML-projects-new" target="_blank">Machine Learning-projects</a></td>
+    <td><a href="https://github.com/AIhexNICK-MAIL-RU/big_data" target="_blank">Big Data-projects</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/AIhexNICK-MAIL-RU/big_data" target="_blank">Big Data-projects</td>
-    <td><a href="https://github.com/AIhexNICK-MAIL-RU/bi_project" target="_blank">BI-projects </td>
-  </tr>
-    <tr>
     <td><a href="https://github.com/AIhexNICK-MAIL-RU/planner_php" target="_blank">PHP-project</a> </td>
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/research_potrfolio" target="_blank">Science Research</a></td>
+    <td><a href="https://github.com/AIhexNICK-MAIL-RU/bi_project" target="_blank">BI-projects </td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/AIhexNICK-MAIL-RU/Telegram-bot-on-C-sharp" target="_blank">Telegram-bot on C#</a></td>
     <td>  <a href="https://github.com/AIhexNICK-MAIL-RU/arktek_data_hackaton" target="_blank">Hackaton Arktek Data</a> </td>
-      
-  </tr> 
-    <tr>
-    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/phonebookPython/tree/main" target="_blank">Phone book on Python</a> </td>
-    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/basics_python/tree/main/basics_python" target="_blank">Python tasks</a> </td>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/phonebookPython/tree/main" target="_blank">Phone book on Python</a> </td>      
   </tr>
-    <tr>
+  <tr>
+    <td> <a href="https://github.com/AIhexNICK-MAIL-RU/basics_python/tree/main/basics_python" target="_blank">Python tasks</a> </td>    
     <td> <a href="https://github.com/AIhexNICK-MAIL-RU/certificates" target="_blank">Certificates</a> </td>
-    <td> Telegram-bot on Python </td>
+    <td> Telegram-bot on Python </td>      
+  </tr> 
+  <tr>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
-    <tr>
-    <td> - </td>
-    <td> - </td>
-
 
 
 
@@ -65,14 +60,17 @@
 [![TELEGRAM](https://img.shields.io/badge/TELEGRAM-090909??style=flat-square&logo=TELEGRAM)](https://t.me/AI_Nick)
 [![DISCORD](https://img.shields.io/badge/DISCORD-090909??style=flat-square&logo=DISCORD)](https://discordapp.com/users/ai_nick_/)
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AIhexNICK-MAIL-RU&layout=compact)](https://github.com/AIhexNICK-MAIL-RU/github-readme-stats)
+
   <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=AIhexNICK-MAIL-RU)](https://github.com/AIhexNICK-MAIL-RU/github-profile-trophy)
 <h7 align="center">
 
 <br>
 
-
+    <th>Projects</th>
+    <th>Projects</th>
 
 **AIhexNICK-MAIL-RU/AIhexNICK-MAIL-RU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
